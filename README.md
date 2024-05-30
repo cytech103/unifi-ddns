@@ -63,4 +63,4 @@ To test the configuration and force an update on a USG:
 #### Important Notes!
 
 - For subdomains (`sub.example.com`), create an A record manually in Cloudflare dashboard first.
-- If you encounter a hostname resolution error (`inadyn[2173778]: Failed resolving hostname https: Name or service not known`), remove `https://` from the `Server` field.
+- If you encounter a hostname resolution error (`inadyn[2173778]: Failed resolving hostname https: Name or service not known`), remove `https://` from the `Server` field..
